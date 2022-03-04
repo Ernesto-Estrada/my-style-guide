@@ -1,0 +1,31 @@
+.container {
+    border: 1px solid black;
+    width: 1000px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.box-color {
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
